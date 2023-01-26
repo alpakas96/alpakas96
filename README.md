@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋 I'm John 
 
 <!--
 **alpakas96/alpakas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on building 1) B2B tools for the entertainment industry & 2) Edutech, both using the MERN stack
+
+- 🌱 I’m currently learning AI and NLP
+
+- 👯 I’m looking to collaborate on open source tools for charitable causes 
+
+- 📫 How to reach me: Email! jhurleyfilm@gmail.com 
+
