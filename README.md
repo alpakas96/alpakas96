@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building 1) B2B tools for the entertainment industry & 2) Edutech, both using the MERN stack
 
-- 🌱 I’m currently learning AI and NLP
+- 🌱 I’m currently learning Firebase, Python, & React Native 
 
 - 👯 I’m looking to collaborate on open source tools for charitable causes 
 
