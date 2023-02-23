@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Here's my portfolio site: https://alpakas96.github.io/new-personal-website/
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source tools for charitable causes 
 
 - 📫 How to reach me: Email! jhurleyfilm@gmail.com 
+
+- 🔭 Here's my portfolio site: https://alpakas96.github.io/new-personal-website/
 
