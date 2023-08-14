@@ -14,13 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on building 1) B2B tools for the entertainment industry & 2) Edutech, both using the MERN stack
-
-- 🌱 I’m currently learning Firebase, Python, & React Native 
-
-- 👯 I’m looking to collaborate on open source tools for charitable causes 
-
-- 📫 How to reach me: Email! jhurleyfilm@gmail.com 
-
-- 🔭 Here's my portfolio site: https://alpakas96.github.io/new-personal-website/
+Virtually all of my free time and work time is spent coding on commercial products, so besides old bootcamp repos, everything is set to private. Thanks. 
 
