@@ -1,4 +1,4 @@
-### Hello 👋 I'm John 
+
 
 <!--
 **alpakas96/alpakas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Virtually all of my free time and work time is spent coding on commercial products, so besides old bootcamp repos, everything is set to private. Thanks. 
+Making software for the entertainment industry. 
 
